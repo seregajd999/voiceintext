@@ -1,0 +1,15 @@
+-=-=-=-=-=-=- Материалы -=-=-=-=-=-=-
+
+Если проблема с PyAudio то ставим из этой библиотеки
+
+pip install (Название скаченного файла)
+
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+
+
+
+https://pypi.org/project/PyAudio/
+https://pypi.org/project/SpeechRecognition/
+
+
+Источник: https://www.youtube.com/watch?v=_OrQu1rz37s&t=5s
